@@ -1,0 +1,11 @@
+{
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "name": "Remix: BBS产品硬件功能预览",
+  "description": ""
+}
